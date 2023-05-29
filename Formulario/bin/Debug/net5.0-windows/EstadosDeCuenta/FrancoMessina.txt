@@ -1,0 +1,18 @@
+Tipo:       Socio
+Nombre:     Franco
+Apellido:   Messina
+DNI:        40123654
+Fecha Nac.: 10/6/1998
+
+Actividad:  Futbol
+Categoria:  Adulto
+------------------------------
+ESTADO DE CUENTA: ESTÁ AL DIA
+------------------------------
+Historial de pagos:
+Año: 2022 | Mes: 02 | Metodo de Pago: Efectivo | Actividad: Futbol | Importe: $1500
+Año: 2022 | Mes: 03 | Metodo de Pago: Efectivo | Actividad: Futbol | Importe: $1500
+Año: 2022 | Mes: 04 | Metodo de Pago: MercadoPago | Actividad: Futbol | Importe: $1500
+Año: 2022 | Mes: 05 | Metodo de Pago: Efectivo | Actividad: Futbol | Importe: $1500
+Año: 2022 | Mes: 06 | Metodo de Pago: Efectivo | Actividad: Futbol | Importe: $1500
+

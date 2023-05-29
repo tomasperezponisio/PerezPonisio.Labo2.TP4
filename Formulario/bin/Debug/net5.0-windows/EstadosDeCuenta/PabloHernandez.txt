@@ -1,0 +1,15 @@
+Tipo:       Socio
+Nombre:     Pablo
+Apellido:   Hernandez
+DNI:        37702569
+Fecha Nac.: 20/6/1995
+
+Actividad:  Futbol
+Categoria:  Adulto
+------------------------------
+ESTADO DE CUENTA: DEUDOR
+------------------------------
+Historial de pagos:
+Año: 2022 | Mes: 04 | Metodo de Pago: MercadoPago | Actividad: Futbol | Importe: $1500
+Año: 2022 | Mes: 05 | Metodo de Pago: MercadoPago | Actividad: Futbol | Importe: $1500
+

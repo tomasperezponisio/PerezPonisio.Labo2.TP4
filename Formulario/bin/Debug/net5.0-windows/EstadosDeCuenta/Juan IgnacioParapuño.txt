@@ -1,0 +1,18 @@
+Tipo:       Socio
+Nombre:     Juan Ignacio
+Apellido:   Parapuño
+DNI:        30068952
+Fecha Nac.: 30/4/1985
+
+Actividad:  Futbol
+Categoria:  Adulto
+------------------------------
+ESTADO DE CUENTA: ESTÁ AL DIA
+------------------------------
+Historial de pagos:
+Año: 2022 | Mes: 02 | Metodo de Pago: Efectivo | Actividad: Futbol | Importe: $2500
+Año: 2022 | Mes: 03 | Metodo de Pago: Efectivo | Actividad: Futbol | Importe: $2500
+Año: 2022 | Mes: 04 | Metodo de Pago: Efectivo | Actividad: Futbol | Importe: $2500
+Año: 2022 | Mes: 05 | Metodo de Pago: Efectivo | Actividad: Futbol | Importe: $2650
+Año: 2022 | Mes: 06 | Metodo de Pago: Efectivo | Actividad: Futbol | Importe: $2650
+

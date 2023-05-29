@@ -1,0 +1,317 @@
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\Formulario.exe
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\Formulario.deps.json
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\Formulario.runtimeconfig.json
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\Formulario.runtimeconfig.dev.json
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\Formulario.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\Formulario.pdb
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\Entidades.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\Entidades.pdb
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\obj\Debug\net5.0-windows\Formulario.csproj.AssemblyReference.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\obj\Debug\net5.0-windows\Formulario.Properties.Resources.resources
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\obj\Debug\net5.0-windows\Formulario.csproj.GenerateResource.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\obj\Debug\net5.0-windows\Formulario.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\obj\Debug\net5.0-windows\Formulario.AssemblyInfoInputs.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\obj\Debug\net5.0-windows\Formulario.AssemblyInfo.cs
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\obj\Debug\net5.0-windows\Formulario.csproj.CoreCompileInputs.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\obj\Debug\net5.0-windows\Formulario.csproj.CopyComplete
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\obj\Debug\net5.0-windows\Formulario.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\obj\Debug\net5.0-windows\refint\Formulario.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\obj\Debug\net5.0-windows\Formulario.pdb
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\obj\Debug\net5.0-windows\Formulario.genruntimeconfig.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\obj\Debug\net5.0-windows\ref\Formulario.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\obj\Debug\net5.0-windows\Formulario.frmInicio.resources
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\obj\Debug\net5.0-windows\Formulario.frmPagarCuota.resources
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\obj\Debug\net5.0-windows\Formulario.frmEstadoDeCuenta.resources
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\obj\Debug\net5.0-windows\Formulario.frmCarga.resources
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\obj\Debug\net5.0-windows\Formulario.frmModificar.resources
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\testhost.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\Entidades.deps.json
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\Entidades.runtimeconfig.json
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\Entidades.runtimeconfig.dev.json
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\testhost.exe
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\Microsoft.TestPlatform.Utilities.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\NuGet.Frameworks.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp3_pruebas\ClubArmenio\Formulario\bin\Debug\net5.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP3\Formulario\bin\Debug\net5.0-windows\Formulario.exe
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP3\Formulario\bin\Debug\net5.0-windows\Formulario.deps.json
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP3\Formulario\bin\Debug\net5.0-windows\Formulario.runtimeconfig.json
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP3\Formulario\bin\Debug\net5.0-windows\Formulario.runtimeconfig.dev.json
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP3\Formulario\bin\Debug\net5.0-windows\Formulario.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP3\Formulario\bin\Debug\net5.0-windows\Formulario.pdb
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP3\Formulario\bin\Debug\net5.0-windows\Entidades.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP3\Formulario\bin\Debug\net5.0-windows\Entidades.pdb
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP3\Formulario\obj\Debug\net5.0-windows\Formulario.csproj.AssemblyReference.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP3\Formulario\obj\Debug\net5.0-windows\Formulario.frmCarga.resources
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP3\Formulario\obj\Debug\net5.0-windows\Formulario.frmEstadoDeCuenta.resources
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP3\Formulario\obj\Debug\net5.0-windows\Formulario.frmInicio.resources
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP3\Formulario\obj\Debug\net5.0-windows\Formulario.frmModificar.resources
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP3\Formulario\obj\Debug\net5.0-windows\Formulario.frmPagarCuota.resources
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP3\Formulario\obj\Debug\net5.0-windows\Formulario.Properties.Resources.resources
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP3\Formulario\obj\Debug\net5.0-windows\Formulario.csproj.GenerateResource.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP3\Formulario\obj\Debug\net5.0-windows\Formulario.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP3\Formulario\obj\Debug\net5.0-windows\Formulario.AssemblyInfoInputs.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP3\Formulario\obj\Debug\net5.0-windows\Formulario.AssemblyInfo.cs
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP3\Formulario\obj\Debug\net5.0-windows\Formulario.csproj.CoreCompileInputs.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP3\Formulario\obj\Debug\net5.0-windows\Formulario.csproj.CopyComplete
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP3\Formulario\obj\Debug\net5.0-windows\Formulario.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP3\Formulario\obj\Debug\net5.0-windows\refint\Formulario.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP3\Formulario\obj\Debug\net5.0-windows\Formulario.pdb
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP3\Formulario\obj\Debug\net5.0-windows\Formulario.genruntimeconfig.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP3\Formulario\obj\Debug\net5.0-windows\ref\Formulario.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\Formulario.exe
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\Formulario.deps.json
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\Formulario.runtimeconfig.json
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\Formulario.runtimeconfig.dev.json
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\Formulario.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\Formulario.pdb
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\Entidades.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\Entidades.pdb
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.csproj.AssemblyReference.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.frmCarga.resources
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.frmEstadoDeCuenta.resources
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.frmInicio.resources
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.frmModificar.resources
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.frmPagarCuota.resources
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.Properties.Resources.resources
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.csproj.GenerateResource.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.AssemblyInfoInputs.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.AssemblyInfo.cs
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.csproj.CoreCompileInputs.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.csproj.CopyComplete
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\obj\Debug\net5.0-windows\refint\Formulario.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.pdb
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.genruntimeconfig.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\obj\Debug\net5.0-windows\ref\Formulario.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\System.Configuration.ConfigurationManager.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\System.Security.AccessControl.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\System.Security.Cryptography.ProtectedData.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\System.Security.Permissions.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\System.Windows.Extensions.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tp4_pruebas\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\Formulario.exe
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\Formulario.deps.json
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\Formulario.runtimeconfig.json
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\Formulario.runtimeconfig.dev.json
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\Formulario.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\Formulario.pdb
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\System.Configuration.ConfigurationManager.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\System.Security.AccessControl.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\System.Security.Cryptography.ProtectedData.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\System.Security.Permissions.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\System.Windows.Extensions.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\Entidades.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\Entidades.pdb
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.csproj.AssemblyReference.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.frmCarga.resources
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.frmEstadoDeCuenta.resources
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.frmInicio.resources
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.frmModificar.resources
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.frmPagarCuota.resources
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.Properties.Resources.resources
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.csproj.GenerateResource.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.AssemblyInfoInputs.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.AssemblyInfo.cs
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.csproj.CoreCompileInputs.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.csproj.CopyComplete
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\refint\Formulario.dll
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.pdb
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.genruntimeconfig.cache
+G:\My Drive\_UTN\Laboratorio - Programacion II\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\ref\Formulario.dll
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\Formulario.exe
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\Formulario.deps.json
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\Formulario.runtimeconfig.json
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\Formulario.runtimeconfig.dev.json
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\Formulario.dll
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\Formulario.pdb
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\System.Security.AccessControl.dll
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\System.Security.Permissions.dll
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\System.Windows.Extensions.dll
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.csproj.AssemblyReference.cache
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.frmCarga.resources
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.frmEstadoDeCuenta.resources
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.frmInicio.resources
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.frmModificar.resources
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.frmPagarCuota.resources
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.Properties.Resources.resources
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.csproj.GenerateResource.cache
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.AssemblyInfoInputs.cache
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.AssemblyInfo.cs
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.csproj.CopyComplete
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.dll
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\refint\Formulario.dll
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.pdb
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\Formulario.genruntimeconfig.cache
+C:\Users\Dell XPS 13\Documents\tps_laboratorio_ii\TP4\Formulario\obj\Debug\net5.0-windows\ref\Formulario.dll
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\Formulario.exe
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\Formulario.deps.json
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\Formulario.runtimeconfig.json
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\Formulario.runtimeconfig.dev.json
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\Formulario.dll
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\Formulario.pdb
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\System.Security.AccessControl.dll
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\System.Security.Permissions.dll
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\System.Windows.Extensions.dll
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\obj\Debug\net5.0-windows\Formulario.csproj.AssemblyReference.cache
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\obj\Debug\net5.0-windows\Formulario.frmCarga.resources
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\obj\Debug\net5.0-windows\Formulario.frmEstadoDeCuenta.resources
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\obj\Debug\net5.0-windows\Formulario.frmInicio.resources
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\obj\Debug\net5.0-windows\Formulario.frmModificar.resources
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\obj\Debug\net5.0-windows\Formulario.frmPagarCuota.resources
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\obj\Debug\net5.0-windows\Formulario.Properties.Resources.resources
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\obj\Debug\net5.0-windows\Formulario.csproj.GenerateResource.cache
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\obj\Debug\net5.0-windows\Formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\obj\Debug\net5.0-windows\Formulario.AssemblyInfoInputs.cache
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\obj\Debug\net5.0-windows\Formulario.AssemblyInfo.cs
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\obj\Debug\net5.0-windows\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\obj\Debug\net5.0-windows\Formulario.csproj.CopyComplete
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\obj\Debug\net5.0-windows\Formulario.dll
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\obj\Debug\net5.0-windows\refint\Formulario.dll
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\obj\Debug\net5.0-windows\Formulario.pdb
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\obj\Debug\net5.0-windows\Formulario.genruntimeconfig.cache
+C:\Users\Dell XPS 13\Documents\PerezPonisio.Labo2.TP4\Formulario\obj\Debug\net5.0-windows\ref\Formulario.dll

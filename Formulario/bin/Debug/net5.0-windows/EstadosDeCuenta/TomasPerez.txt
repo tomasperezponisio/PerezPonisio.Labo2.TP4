@@ -1,0 +1,15 @@
+Tipo:       Socio
+Nombre:     Tomas
+Apellido:   Perez
+DNI:        31443243
+Fecha Nac.: 24/2/1985
+
+Actividad:  Natacion
+Categoria:  Adulto
+------------------------------
+ESTADO DE CUENTA: ESTÁ AL DIA
+------------------------------
+Historial de pagos:
+Año: 2022 | Mes: 05 | Metodo de Pago: Efectivo | Actividad: Natacion | Importe: $4500
+Año: 2022 | Mes: 06 | Metodo de Pago: Debito | Actividad: Natacion | Importe: $4500
+

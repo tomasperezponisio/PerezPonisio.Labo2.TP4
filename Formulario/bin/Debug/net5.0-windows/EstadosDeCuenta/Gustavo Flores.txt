@@ -1,0 +1,14 @@
+Tipo:       Socio
+Nombre:     Gustavo 
+Apellido:   Flores
+DNI:        91541235
+Fecha Nac.: 7/6/1989
+
+Actividad:  Natacion
+Categoria:  Adulto
+------------------------------
+ESTADO DE CUENTA: ESTÁ AL DIA
+------------------------------
+Historial de pagos:
+Año: 2022 | Mes: 06 | Metodo de Pago: MercadoPago | Actividad: Natacion | Importe: $4500
+
