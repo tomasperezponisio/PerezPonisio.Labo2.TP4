@@ -7,7 +7,93 @@ El proyecto es un programa para gestionar a los socios de un club. En el inicio 
 El menú tiene siete opciones con nombres descriptivos.
 - **Cargar Socio**: aquí se puede cargar un nuevo socio al club ingresando todos los datos requeridos y en su correcto formato, por ejemplo, en el campo DNI solo se podrá ingresar números, que sean mayores a 0 y menores a 99999999, y que tengan 7 u 8 dígitos.
 
-- <img src="https://i.imgur.com/0NQfcJ7.png" style=" width:200px ;  "  >
+- <img src="https://i.imgur.com/0NQfcJ7.png" style=" width:200px ;  "  >}
+```c#
+/// Código del boton Aceptar en el formulario de carga, Valida los campos y en especial el dni, si esta todo ok, se crea un socio con estos datos y se agrega al club que recibió como parametro al ser instanciado el formulario (y a la base de datos). Fallas en la validacion de los datos arrojaran las excepciones que correspondan.
+private void btnAceptar_Click(object sender, EventArgs e)
+{
+    try
+    {
+        this.ValidarCampos();
+        this.ValidarDniExistente(int.Parse(this.txtDni.Text));
+
+        string nombre = this.txtNombre.Text;
+        string apellido = this.txtApellido.Text;
+        int dni = int.Parse(this.txtDni.Text);
+        DateTime fechaNacimiento = this.dtpFechaNacimiento.Value;
+        Socio.ECategoria categoria = (Socio.ECategoria)this.cmbEnum1.SelectedItem;
+        Socio.EActividad actividad = (Socio.EActividad)this.cmbEnum2.SelectedItem;
+
+        Socio socio = new Socio(nombre, apellido, dni, fechaNacimiento, actividad, categoria);
+        string mensaje = string.Empty;
+
+        if (this.IngresarSocio(this.club, socio))
+        {
+            GestorSQL.AltaSocio(socio);
+            MessageBox.Show("Socio agreado con éxito", "Informacion", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            this.Close();
+        }
+    }
+    catch (DniInvalidoException ex)
+    {
+        MessageBox.Show(ex.Message, "Error al cargar los datos", MessageBoxButtons.OK, MessageBoxIcon.Error);
+    }
+    catch (CampoVacioException ex)
+    {
+        MessageBox.Show(ex.Message, "Error al cargar los datos", MessageBoxButtons.OK, MessageBoxIcon.Error);
+    }
+    catch (IngresoAlClubException ex)
+    {
+        MessageBox.Show(ex.Message, "Error al ingresar al club", MessageBoxButtons.OK, MessageBoxIcon.Error);
+    }
+    catch (ExceptionSQL ex)
+    {
+        MessageBox.Show(ex.Message, "Error al ingresar al club", MessageBoxButtons.OK, MessageBoxIcon.Error);
+    }            
+    catch (Exception ex)
+    {
+        MessageBox.Show(ex.Message, "Error al cargar", MessageBoxButtons.OK, MessageBoxIcon.Error);
+    }
+}
+```
+
+```c#
+/// EL metodo para ingresaro un socio al club, utiliza la sobre carga de los operadores == y + que se programó en la Entidad club.
+/// Recibe un club y un socio como parametros e intenta agregar el socio a la lista de socios del club, si no se puede arroja una exception
+private bool IngresarSocio(Club club, Socio socio)
+{
+    if (!(this.club != socio && club + socio))
+    {
+        throw new IngresoAlClubException("No se pudo agregar el socio");
+    }
+    return true;
+} 
+```
+
+```c#
+/// Sobrecarga del operador de igualdad entre un club y un socio, si el club tiene ese socio en la lista de socios que tiene como atrubuto, devuelve true, si el socio no se encuentra devuelve false
+
+public static bool operator ==(Club c, Socio s)
+{
+    bool retorno = false;
+    if (c is not null && s is not null)
+    {
+        foreach (Socio item in c.listaSocios)
+        {
+            if (item == s)
+            {
+                retorno = true;
+            }
+        }
+    }
+    return retorno;
+}
+public static bool operator !=(Club c, Socio s)
+{
+    return !(c == s);
+}
+```
+
 
 - **Modificar Socio**: Con un socio seleccionado de la lista, se pueden modificar sus datos menos el de DNI, si se quiere modificar un DNI, hay que eliminar el socio y crearlo de nuevo.
 
