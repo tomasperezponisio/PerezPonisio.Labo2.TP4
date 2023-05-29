@@ -7,7 +7,7 @@ El proyecto es un programa para gestionar a los socios de un club. En el inicio 
 El menú tiene siete opciones con nombres descriptivos.
 - **Cargar Socio**: aquí se puede cargar un nuevo socio al club ingresando todos los datos requeridos y en su correcto formato, por ejemplo, en el campo DNI solo se podrá ingresar números, que sean mayores a 0 y menores a 99999999, y que tengan 7 u 8 dígitos.
 
-- <img src="https://i.imgur.com/0NQfcJ7.png" style=" width:200px ;  "  >}
+- <img src="https://i.imgur.com/0NQfcJ7.png" style=" width:200px ; ">
 ```c#
 /// Código del boton Aceptar en el formulario de carga, Valida los campos y en especial el dni,
 /// si esta todo ok, se crea un socio con estos datos y se agrega al club que recibió como
