@@ -9,7 +9,10 @@ El menú tiene siete opciones con nombres descriptivos.
 
 - <img src="https://i.imgur.com/0NQfcJ7.png" style=" width:200px ;  "  >}
 ```c#
-/// Código del boton Aceptar en el formulario de carga, Valida los campos y en especial el dni, si esta todo ok, se crea un socio con estos datos y se agrega al club que recibió como parametro al ser instanciado el formulario (y a la base de datos). Fallas en la validacion de los datos arrojaran las excepciones que correspondan.
+/// Código del boton Aceptar en el formulario de carga, Valida los campos y en especial el dni,
+/// si esta todo ok, se crea un socio con estos datos y se agrega al club que recibió como
+/// parametro al ser instanciado el formulario (y a la base de datos). Fallas en la
+/// validacion de los datos arrojaran las excepciones que correspondan.
 private void btnAceptar_Click(object sender, EventArgs e)
 {
     try
@@ -58,8 +61,10 @@ private void btnAceptar_Click(object sender, EventArgs e)
 ```
 
 ```c#
-/// EL metodo para ingresaro un socio al club, utiliza la sobre carga de los operadores == y + que se programó en la Entidad club.
-/// Recibe un club y un socio como parametros e intenta agregar el socio a la lista de socios del club, si no se puede arroja una exception
+/// EL metodo para ingresaro un socio al club, utiliza la sobre carga de los
+/// operadores == y + que se programó en la Entidad club.
+/// Recibe un club y un socio como parametros e intenta agregar el socio a la lista
+/// de socios del club, si no se puede arroja una exception
 private bool IngresarSocio(Club club, Socio socio)
 {
     if (!(this.club != socio && club + socio))
@@ -71,7 +76,9 @@ private bool IngresarSocio(Club club, Socio socio)
 ```
 
 ```c#
-/// Sobrecarga del operador de igualdad entre un club y un socio, si el club tiene ese socio en la lista de socios que tiene como atrubuto, devuelve true, si el socio no se encuentra devuelve false
+/// Sobrecarga del operador de igualdad entre un club y un socio, si el club tiene
+/// ese socio en la lista de socios que tiene como atrubuto, devuelve true, si el
+/// socio no se encuentra devuelve false
 
 public static bool operator ==(Club c, Socio s)
 {
