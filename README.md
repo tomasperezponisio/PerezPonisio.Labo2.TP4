@@ -169,9 +169,51 @@ public bool VerificarSiEstaAlDia()
 }
 ```
 
-
-
 - **Pagar Cuota**: Aquí se puede pagar una cuota del socio seleccionado, se deberá ingresar el importe, fecha, la actividad y el método de pago y el registro se agregará automáticamente al historial de pagos (estado de cuenta) del socio. No se puede pagar dos veces el mismo mes, el sistema avisa con un mensaje.
+
+- <img src="https://i.imgur.com/ZLQkJuZ.png" style=" width:200px ; ">
+
+```c#
+/// Valida los campos, si estan ok genero una nueva cuota con los datos ingresados
+/// y con el metodo RegistrarPago() de Socio agrego esta cuota a la lista de cuotas
+/// del socio (y a la base de datos), si esta todo ok se cierra el form y se vuelve al principal.
+/// Si algo salió mal se arrojara la exception que corresponda.
+private void btnAceptar_Click(object sender, EventArgs e)
+{
+    try
+    {
+        this.ValidarCampos();
+        Cuota cuota;
+        Cuota.EMetodoDePago metodoDePago = (Cuota.EMetodoDePago)this.cmbMetodoDePago.SelectedItem;
+        int importe = int.Parse(this.txtImporte.Text);
+        Socio.EActividad actividad = (Socio.EActividad)this.cmbActividad.SelectedItem;
+        DateTime fechaCuota = this.dtpFechaCuota.Value;
+        int dniSocio = socio.Dni;
+
+        cuota = new Cuota(metodoDePago, importe, actividad, fechaCuota, dniSocio);
+        
+        Socio.RegistrarPago(this.socio, cuota);
+        GestorSQL.AltaCuota(this.socio, cuota);
+        this.Close();
+    }
+    catch (CampoVacioException ex)
+    {
+        MessageBox.Show(ex.Message, "Error al registrar el pago", MessageBoxButtons.OK, MessageBoxIcon.Error);
+    }
+    catch (ImporteInvalidoException ex)
+    {
+        MessageBox.Show(ex.Message, "Error al registrar el pago", MessageBoxButtons.OK, MessageBoxIcon.Error);
+    }            
+    catch (RegistroPagoCuotaException ex)
+    {
+        MessageBox.Show(ex.Message, "Error al registrar el pago", MessageBoxButtons.OK, MessageBoxIcon.Error);
+    }
+    catch (Exception ex)
+    {
+        MessageBox.Show(ex.Message, "Error al registrar el pago", MessageBoxButtons.OK, MessageBoxIcon.Error);
+    }
+}
+```
 
 - **Eliminar Socio**: Con un socio seleccionado se puede eliminar del club, hay un pedido de confirmación previo.
 
