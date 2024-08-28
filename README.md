@@ -1,6 +1,6 @@
 # Gestor de socios del club UGAB. ABM en C#.NET (POO) y SQL.
 
-El proyecto es un programa para gestionar los socios de un club. En el inicio se pueden ver listados los socios del club, la lista estará vacía si no hay ningún socio o si no se ha cargado la base datos.
+El proyecto es un programa para gestionar los socios de un club. En el inicio se puede ver listados los socios del club, la lista estará vacía si no hay ningún socio o si no se ha cargado la base datos.
 
 ![Anuncios](https://i.imgur.com/Roso4EY.png)
 
